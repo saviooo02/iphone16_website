@@ -23,5 +23,18 @@ li{
 
 #main-img img {
     max-width: 50%; 
-    
+}
+
+#main-text p{
+    margin-top: 20px;
+    color: gray;
+    font-size: 1.4em;
+    padding-inline: 100px;
+    font-family: "Montserrat", sans-serif;
+}
+
+.acc-text{
+    font-size: large;
+    color: gray;
+    font-family: "Montserrat", sans-serif;
 }
