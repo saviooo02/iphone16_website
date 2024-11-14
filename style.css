@@ -3,8 +3,9 @@
     padding: 0;
 }
 
-li{
+.navbar li{
     font-size: smaller;
+    font-family: "Montserrat", sans-serif;
 }
 
 
@@ -38,3 +39,11 @@ li{
     color: gray;
     font-family: "Montserrat", sans-serif;
 }
+
+.accordion strong{
+    font-size: medium;
+    color: gray;
+    font-weight: 500;
+    font-family: "Montserrat", sans-serif;
+}
+
