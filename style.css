@@ -13,3 +13,15 @@ li{
     height: 80vh;
     object-fit: cover;
 }
+
+#main-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px; 
+}
+
+#main-img img {
+    max-width: 50%; 
+    
+}
